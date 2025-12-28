@@ -23,7 +23,7 @@
     padding: 25px;
     border-radius: 15px;
     color: white;
-    text-align: center;
+    text-align: left;
     box-shadow: 0 5px 15px rgba(0,0,0,0.3);
   }
     
@@ -97,6 +97,7 @@
     padding:8px 12px;
     margin: 8px;
     cursor:pointer;
+    align-self: center;
     font-size:0.9rem;
     transition:all 0.3 ease;
   }
@@ -115,6 +116,3 @@
     border: none;
        
   }
-  
-
-   
